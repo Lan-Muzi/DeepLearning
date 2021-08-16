@@ -1,2 +1,2 @@
 # DeepLearning
-The learning of DEEPLIZARD
+The Keras API learning of DEEPLIZARD！
